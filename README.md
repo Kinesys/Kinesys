@@ -1,4 +1,4 @@
-### Kinesys Github Profile
+### Team. Danz 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
 
 <!--
