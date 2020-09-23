@@ -1,7 +1,7 @@
 ### Team. Danz 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kinesys)](https://hits.seeyoufarm.com) 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kinesys)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kinesys)](https://github.com/Kinesys)
 
 <!--
 **Kinesys/Kinesys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
