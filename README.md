@@ -1,5 +1,5 @@
 ### Kinesys Github Profile
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
 
 <!--
 **Kinesys/Kinesys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
