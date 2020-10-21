@@ -10,6 +10,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Webbacking, Reversing and Coding
-- 🔭 I’m always thinking new security issues
+- 🔭 I’m always looking for new security issues
 - 👯 I’m always finding new security bugs and new trands
 
