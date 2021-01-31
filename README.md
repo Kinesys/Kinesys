@@ -8,6 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Kinesys/github-readme-stats)
 
 [C#은 거의 안 합니다. ㅎㅎ]:
+Hi there I'm Kinesys 
+
 
 - 🌱 I'm currently learning Pwnable and Web_hacking, Programming. 
 - 🔭 I'm always interested in new security issues 
