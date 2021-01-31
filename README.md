@@ -12,4 +12,5 @@ Hi there I'm Kinesys
 
 - 🌱 I'm currently learning Pwnable and Web_hacking, Programming. 
 - 🔭 I'm always interested in new security issues and new programming language for development.
+- 🐼 I like creative and new development elements.
 
