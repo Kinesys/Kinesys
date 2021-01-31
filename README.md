@@ -1,4 +1,5 @@
-### Team. Danz 
+### Team. Praiseur
+(People Who make me shine)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kinesys)](https://hits.seeyoufarm.com) 
 
@@ -8,6 +9,6 @@
 
 [C#은 거의 안 합니다. ㅎㅎ]:
 
-- 🌱 현재  Pwnable, Web Hacking, Develop 등을 배우고 있습니다.
-- 🔭 언제나 새로운 보안취약점이나 이슈에 관심을 가지고 있습니다.
+- 🌱 I'm currently learning Pwnable and Web_hacking, Programming. 
+- 🔭 I'm always interested in new security issues 
 
