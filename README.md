@@ -11,7 +11,7 @@ Hi there I'm Kinesys
 
 
 - 💻 My future dream is White hacker. 
-- 🌱 I'm currently learning Pwnable and Web_hacking, Programming. 
+- 🌱 I'm currently learning Pwnable and Reversing, Programming. 
 - 🔭 I'm always interested in new security issues and new programming language for development.
 - 🐼 I like creative and new development elements.
 - ✉️ I don’t want not be irresponsible for development.
