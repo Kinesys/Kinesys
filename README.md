@@ -22,7 +22,7 @@ Hi there I'm Kinesys
 ![Red Hat Badge](https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=white)
 ![Windows XP Badge](https://img.shields.io/badge/WindowsXP-008080?style=flat-square&logo=WindowsXP&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Kali Linux Badge](https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+![Kali Linux Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 ![Fedora Badge](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white)
 
 
