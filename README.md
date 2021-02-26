@@ -19,8 +19,8 @@ Hi there I'm Kinesys
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
-![Red Hat Badge](https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=Red Hat&logoColor=white)
-![Windows XP Badge](https://img.shields.io/badge/Windows XP-003399?style=flat-square&logo=WindowsXP&logoColor=white)
+![Red Hat Badge](https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=white)
+![Windows XP Badge](https://img.shields.io/badge/WindowsXP-003399?style=flat-square&logo=WindowsXP&logoColor=white)
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
 - 💻 My future dream is White hacker. 
