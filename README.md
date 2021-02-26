@@ -17,6 +17,12 @@ Hi there I'm Kinesys
 
 ### Operating System
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Debian Badge](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
+![Red Hat Badge](https://img.shields.io/badge/Red Hat-EE0000?style=flat-square&logo=Red Hat&logoColor=white)
+![Windows XP Badge](https://img.shields.io/badge/Windows XP-003399?style=flat-square&logo=Windows XP&logoColor=white)
+![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
+
 - 💻 My future dream is White hacker. 
 - 🌱 I'm currently learning Pwnable and Reversing, Programming. 
 - 🔭 I'm always interested in new security issues and new programming language for development.
