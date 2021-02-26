@@ -17,7 +17,6 @@ Hi there I'm Kinesys
 
 ### Operating System
 
-[![Mac OS Badge](https://img.shields.io/badge/Mac OS-black?style=flat-square&logo=mac OS&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 
 - 💻 My future dream is White hacker. 
 - 🌱 I'm currently learning Pwnable and Reversing, Programming. 
