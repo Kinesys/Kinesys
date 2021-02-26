@@ -16,7 +16,7 @@ Hi there I'm Kinesys
 
 
 ### Operating System
-[![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)]
+![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 - 💻 My future dream is White hacker. 
 - 🌱 I'm currently learning Pwnable and Reversing, Programming. 
 - 🔭 I'm always interested in new security issues and new programming language for development.
