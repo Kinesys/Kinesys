@@ -2,6 +2,7 @@
 (People Who make me shine)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kinesys)](https://hits.seeyoufarm.com) 
+
 [![Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kinesys)](https://github.com/kinesys)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
