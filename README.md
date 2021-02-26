@@ -1,10 +1,7 @@
-
-
 ### Team. Praiseur
 (People Who make me shine)
 
 ### Hi there I'm Kinesys 👋
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kinesys)](https://hits.seeyoufarm.com) 
 
 [![Github Badge](http://img.shields.io/badge/-Github%20-black?style=flat-square&logo=github&link=https://github.com/kinesys)](https://github.com/kinesys)
