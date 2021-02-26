@@ -1,3 +1,5 @@
+Hi there I'm Kinesys 
+
 ### Team. Praiseur
 (People Who make me shine)
 
@@ -5,8 +7,6 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github%20-black?style=flat-square&logo=github&link=https://github.com/kinesys)](https://github.com/kinesys)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)](https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)
-
-Hi there I'm Kinesys 
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
