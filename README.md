@@ -1,4 +1,4 @@
-Hi there I'm Kinesys 
+### Hi there I'm Kinesys 👋
 
 ### Team. Praiseur
 (People Who make me shine)
