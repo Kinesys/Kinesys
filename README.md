@@ -21,7 +21,7 @@ Hi there I'm Kinesys
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
 ![Red Hat Badge](https://img.shields.io/badge/RedHat-EE0000?style=flat-square&logo=RedHat&logoColor=white)
 ![Windows XP Badge](https://img.shields.io/badge/WindowsXP-008080?style=flat-square&logo=WindowsXP&logoColor=white)
-![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 - 💻 My future dream is White hacker. 
 - 🌱 I'm currently learning Pwnable and Reversing, Programming. 
