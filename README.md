@@ -1,4 +1,4 @@
-### Team. Praiseur
+### Team. Blaster
 (People Who make me shine)
 
 ### Hi there I'm Kinesys(Phantester K) 👋
