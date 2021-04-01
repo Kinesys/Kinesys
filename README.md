@@ -40,7 +40,7 @@
 
 
 - 💻 My future dream is White hacker. 
-- 🌱 I'm currently learning Reversing and Webhacking, Crypto, Programming. 
+- 🌱 I'm currently learning Pwnable and Webhacking, Crypto, Programming. 
 - 🔭 I'm always interested in new security issues and new programming language for development.
 - 🐼 I like creative and new development elements.
 - ✉️ I don’t want not be irresponsible for development.
