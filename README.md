@@ -30,7 +30,7 @@
 
 ### Programming Languages
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C)
-![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++)
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
