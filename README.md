@@ -48,7 +48,7 @@
 ![Kali Linux Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=Kali_Linux&logoColor=white)
 ![Fedora Badge](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white)
 
-
+## About 
 - 💻 My future dream is White hacker. 
 - 🌱 I'm currently learning Pwnable and Reversing, Crypto, Forensic, Programming. 
 - 🔭 I'm always interested in new security issues and new programming language for development.
