@@ -15,7 +15,7 @@
 ![Kinesys github stats](https://github-readme-stats.vercel.app/api?username=Kinesys&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&langs_count=10&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Kinesys/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kinesys&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kinesys&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [![](https://raw.githubusercontent.com/Kinesys/Kinesys/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kinesys/Kinesys/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kinesys/Kinesys/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
