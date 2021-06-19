@@ -12,8 +12,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
 
-![Kinesys github stats](https://github-readme-stats.vercel.app/api?username=Kinesys&show_icons=true&theme=Gradient )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&langs_count=10&layout=compact&show_icons=true&theme=Gradient)](https://github.com/Kinesys/github-readme-stats)
+![Kinesys github stats](https://github-readme-stats.vercel.app/api?username=Kinesys&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&langs_count=10&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Kinesys/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kinesys&theme=monokai)
 
