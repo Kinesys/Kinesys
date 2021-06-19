@@ -8,6 +8,7 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog%20-black?style=flat-square&logo=Stitcher&link=https://github.com/kinesys)](https://kinesys.github.io)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=NativeScript&link=https://blog.naver.com/dsph9245)](https://blog.naver.com/dsph9245)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)](https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)
+<a href="https://velog.io/@dsph9245" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
 
