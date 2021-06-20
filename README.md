@@ -53,3 +53,9 @@
 - 🐼 I like creative and new development elements.
 - ✉️ I don’t want not be irresponsible for development.
 - 🐧 I ordinary using development tool VSC 
+
+## Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dsph9245)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245&color=dark)](https://github.com/eungyeole/velog-readme-stats)
