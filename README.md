@@ -10,6 +10,10 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)](https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)
 <a href="https://velog.io/@dsph9245" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
+## Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+
+## Header
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Kinesys%20Github&fontSize=90)
 
 ![Kinesys github stats](https://github-readme-stats.vercel.app/api?username=Kinesys&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff )
@@ -54,5 +58,3 @@
 - ✉️ I don’t want not be irresponsible for development.
 - 🐧 I ordinary using development tool VSC 
 
-## Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245&color=dark)](https://github.com/eungyeole/velog-readme-stats)
