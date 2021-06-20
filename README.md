@@ -55,4 +55,4 @@
 - 🐧 I ordinary using development tool VSC 
 
 ## Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245&color=black)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dsph9245&color=dark)](https://github.com/eungyeole/velog-readme-stats)
