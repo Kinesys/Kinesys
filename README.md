@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&langs_count=10&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Kinesys/github-readme-stats)
 
 ##Lank
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=thankowl777)](https://solved.ac/thankowl777)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kinesys)](https://solved.ac/Kinesys)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kinesys&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=Kinesys&)](#)
 
