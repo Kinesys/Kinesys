@@ -1,4 +1,4 @@
-### Team. Phantester, Losmary, Security-J
+### Team. Phantester, Losmary
 (People Who make me shine)
 
 ### Hi there I'm Kinesys(Phantester K) 👋
