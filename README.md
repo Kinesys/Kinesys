@@ -21,7 +21,6 @@
 ![Kinesys github stats](https://github-readme-stats.vercel.app/api?username=Kinesys&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&langs_count=10&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Kinesys/github-readme-stats)
 
-##Lank
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsph9245)](https://solved.ac/dsph9245)
 
 
