@@ -25,7 +25,7 @@
 ## Baekjoon 
 (참고로 푼 문제들은 제가 배운 내용들에서 코드를 조금씩 바꿨기 떄문에 랭크 및 푼 문제 수는 별 의미 없습니다......)
 
-알고리즘 아직 잘 못합니다. 
+알고리즘 아직 잘 못합니다. 😭
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsph9245)](https://solved.ac/dsph9245)
 
