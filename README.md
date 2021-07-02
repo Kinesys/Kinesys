@@ -22,15 +22,6 @@
 ![Kinesys github stats](https://github-readme-stats.vercel.app/api?username=Kinesys&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinesys&langs_count=10&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Kinesys/github-readme-stats)
 
-## Baekjoon 
-(참고로 푼 문제들은 제가 배운 내용들에서 코드를 조금씩 바꿨기 떄문에 랭크 및 푼 문제 수는 별 의미 없습니다......)
-
-알고리즘 아직 잘 못합니다. 😭 더 발전하겠습니다.
-
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsph9245)](https://solved.ac/dsph9245)
-
-
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kinesys&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
