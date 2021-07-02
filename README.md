@@ -10,6 +10,7 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)](https://www.youtube.com/channel/UCzvy3twsV4JbESQR9vt1UaA)
 <a href="https://velog.io/@dsph9245" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
+## Baekjoon (참고로 푼 문제들은 제가 배운 내용들에서 코드를 조금씩 바꿨기 떄문에 랭크 및 푼 문제 수는 별 의미 없습니다......)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kinesys&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## Velog
